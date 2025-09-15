@@ -1,6 +1,6 @@
 # OriFinder
 
-一个专门用于识别质粒DNA序列中AT盒子并注释复制起点(ori)的Python包。
+Methanogenic Archaeal Plasmid ori Sequence Finder。
 
 ## 功能特点
 
